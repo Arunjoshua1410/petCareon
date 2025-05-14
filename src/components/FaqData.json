@@ -1,0 +1,30 @@
+
+
+[
+    {
+    "id":1,
+    "firstquestion":"What is PetON?",
+    "firstanswer":"PetON is a mobile app designed for pet parents and  organizations to build communities,share pet memories,and \n manage pet listings."
+    },
+    {
+    "id":2,
+    "secondquestion":"How can i trust PetON?",
+    "secondanswer":"PetON ensures trustworthiness through verified profiles, secure communication channels,and a commitment to pet  \n welfare. Our platform prioritizes transparency, reliability, and the well-being of pets and their parents."
+    },
+    {
+    "id":3,
+    "thirdquestion":"How can PetON help me find the right pet for adoption?",
+    "thirdanswer":"PetON provides detailed profiles, photos, and descriptions of pets available for adoption,along with filtering options \n based on preferences such as breed, age, and location, making it easier to find your perfect furry companion."
+    },
+    {
+    "id":4,
+    "fourthquestion":"What makes PetON different from other pet care apps?",
+    "fourthanswer":"PetON stands out for its comprehensive range of features, including adoption assistance, community engagement, \n event notifications, and more, all in one convenient platform."
+    },
+    {
+        "id":5,
+        "fifthquestion":"How does PetON contribute to building a pet-friendly community?",
+        "fifthanswer":"PetON fosters community engagement by connecting pet parents, organizing pet-related events, and facilitating \n communication and collaboration among members to promote pet welfare and advocacy."
+    }
+
+]

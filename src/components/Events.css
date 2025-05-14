@@ -1,0 +1,23 @@
+.adoptapet{
+    display: flex;
+    justify-content: center;  
+    flex-direction: row;
+    height: 55vh;
+    margin-top: 20px;
+}
+.adoptapet1{
+    margin-right: 40px;
+}
+.adoptapet h1{
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+.adoptapet p{
+    color: #6a7081;
+    font-size: 18px;
+    font-family: DM Sans;
+    line-height: 1.8;
+}
+
+
+
